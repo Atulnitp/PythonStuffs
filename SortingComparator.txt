@@ -1,0 +1,18 @@
+This file contain the sample Input and Output for SortingComparator.py Program
+
+Sample Input:
+
+5
+amy 100
+david 100
+heraldo 50
+aakansha 75
+aleksa 150
+
+Sample Output:
+
+aleksa 150
+david 100
+amy 100
+aakansha 75
+heraldo 50
